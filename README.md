@@ -47,4 +47,4 @@ Este proyecto tiene como objetivo el desarrollo de una aplicación para la recom
 
    *Ejemplo de la interfaz de reconocimiento facial durante el inicio de sesión.*
 
----
+### https://github.com/Angelica-R/SM2_EXAMEN_PRACTICO.git
